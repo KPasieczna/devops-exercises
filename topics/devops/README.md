@@ -68,7 +68,7 @@ Things to think about:
 
 A couple of thoughts:
 
-1. Why is it an important goal? Is it affecting the business somehow? One of the KPIs? In other words, does it matters?
+1. Why is it an important goal? Is it affecting the business somehow? One of the KPIs? In other words, does it matter?
 2. This might introduce risks such as losing quality in favor of quantity
 3. You might want to set a possibly better goal such as "be able to deploy whenever we need to deploy"
 </b></details>
